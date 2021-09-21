@@ -1,13 +1,21 @@
 ### Hi there 👋, I'm Mahbub Tonoy
 #### Full Stack Web Application Developer
-![Full Stack Web Application Developer](https://scontent.fdac5-2.fna.fbcdn.net/v/t1.6435-9/83337744_963809314079682_4511422036262564814_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=19026a&_nc_eui2=AeEibIJ5O5Jp-11SWyj_8J6_ORI3gcfKgtU5EjeBx8qC1TQnc7dsJrHxz28RrQuCXnhJYSnet655EA_OZREYCh6w&_nc_ohc=YVkKxFfFQ94AX-QvExv&tn=0HFn6zWwOZ2B3Obi&_nc_ht=scontent.fdac5-2.fna&oh=8134c35be017d521a67af3829ad6b34c&oe=616FE468)
+![Full Stack Web Application Developer](https://mahbubtonoy.github.io/MahbubTonoy/banner.jpg)
 
-Hello, I am Mahbub Rashid Tonoy. I am a full stack web application developer. 
+Hello, I am Mahbub Rashid Tonoy. I am a full stack web application developer. I like to develop web application. Programming is my passion. And I am trying to make my passion turn into profession. Continuous Skill Development is my main goal. Currently, I'm working on Freelancer.com for practicing my skills and make myself more sharper at development.
 
 Skills: JAVASCRIPT / PHP / MYSQL / HTML / CSS / NODE.JS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Web application Development 
+- 🌱 I’m currently learning Javascript 
+- 📫 How to reach me: facebook/ThizIzTonoy 
+- ⚡ Fun fact: Programming and Coding are not the same 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MahbubTonoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ThizIzTonoy)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MahbubTonoy&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/MahbubTonoy)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/MahbubTonoy)  
