@@ -1,6 +1,7 @@
+![Full Stack Web Application Developer](https://mahbubtonoy.github.io/MahbubTonoy/banner.jpg)
 ### Hi there 👋, I'm Mahbub Tonoy
 #### Full Stack Web Application Developer
-![Full Stack Web Application Developer](https://mahbubtonoy.github.io/MahbubTonoy/banner.jpg)
+
 
 Hello, I am Mahbub Rashid Tonoy. I am a full stack web application developer. I like to develop web application. Programming is my passion. And I am trying to make my passion turn into profession. Continuous Skill Development is my main goal. Currently, I'm working on Freelancer.com for practicing my skills and make myself more sharper at development.
 
@@ -14,8 +15,3 @@ Skills: JAVASCRIPT / PHP / MYSQL / HTML / CSS / NODE.JS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MahbubTonoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ThizIzTonoy)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MahbubTonoy&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/MahbubTonoy)  
-
-![Profile views](https://gpvc.arturio.dev/https://github.com/MahbubTonoy)  
