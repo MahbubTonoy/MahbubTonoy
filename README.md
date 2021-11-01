@@ -1,4 +1,4 @@
-![Full Stack Web Application Developer](https://mahbubtonoy.github.io/MahbubTonoy/banner.jpg)
+![Full Stack Web Application Developer](https://mahbubtonoy.github.io/MahbubTonoy/banner_2.png)
 ### Hi there 👋, I'm Mahbub Tonoy
 #### Full Stack Web Application Developer
 
