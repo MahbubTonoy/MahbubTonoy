@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mahbubtonoy2007@gmail.com**
 
-- ⚡ Fun fact **Programming and Coding are not the same**
+- ⚡ Fun fact **Programming and Coding are not the same ✌️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
