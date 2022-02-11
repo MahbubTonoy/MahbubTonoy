@@ -24,10 +24,6 @@
 
 <p><img style="margin: 0 auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahbubtonoy&show_icons=true&locale=en&layout=compact" alt="mahbubtonoy" /></p>
 
-<!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbubtonoy&show_icons=true&locale=en" alt="mahbubtonoy" /></p-->
-
-
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MahbubTonoy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/ThizIzTonoy)  
 
