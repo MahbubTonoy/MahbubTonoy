@@ -6,7 +6,6 @@
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MahbubTonoy.MahbubTonoy)
-<img src="https://camo.githubusercontent.com/6e95a5ffe6b43ca415567fb8c21c1b231aede2004006cd228f03640c79c4fcc1/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d4d6168627562546f6e6f792e4d6168627562546f6e6f79" />
 
 </p>
 <div size='20px'> Hi! My name is Mahbub Rashid Tonoy. Thank You for taking the time to view my GitHub Profile :smile: 
