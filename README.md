@@ -2,7 +2,7 @@
 <img width="100%" height = "" src="https://camo.githubusercontent.com/e81113e1a8c86c212c5479f269cbdd67a3873a6d9b7dc7b6d329b9a440833a2e/68747470733a2f2f6d6168627562746f6e6f792e6769746875622e696f2f4d6168627562546f6e6f792f62616e6e65725f322e706e67" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img style="width: 30px;" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> </h1>
+<h1> Hello Fellow < Developers/ >! <img width="30px" src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"> </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=MahbubTonoy.MahbubTonoy)
@@ -11,7 +11,7 @@
   <div size='20px'> Hi! My name is <b>Mahbub Rashid Tonoy</b>. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img width="30px" style="width: 30px;" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img width="30px" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
