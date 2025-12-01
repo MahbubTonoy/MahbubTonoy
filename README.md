@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "" src="https://camo.githubusercontent.com/e81113e1a8c86c212c5479f269cbdd67a3873a6d9b7dc7b6d329b9a440833a2e/68747470733a2f2f6d6168627562746f6e6f792e6769746875622e696f2f4d6168627562546f6e6f792f62616e6e65725f322e706e67" alt="cover" />
+<!-- <img width="100%" height = "" src="https://camo.githubusercontent.com/e81113e1a8c86c212c5479f269cbdd67a3873a6d9b7dc7b6d329b9a440833a2e/68747470733a2f2f6d6168627562746f6e6f792e6769746875622e696f2f4d6168627562546f6e6f792f62616e6e65725f322e706e67" alt="cover" /> -->
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="50"> </h1>
